@@ -1,4 +1,4 @@
-package logical;
+package logical.leet;
 
 public class LongestCommonPrefix {
 	
